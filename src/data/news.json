@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "title": "Tecnologia avança em 2025",
+    "summary": "Novas descobertas tecnológicas estão transformando o mundo.",
+    "imageUrl": "https://via.placeholder.com/300.png/ddf/000",
+    "date": "01/10/2025",
+    "category": "Tecnologia"
+  },
+  {
+    "id": 2,
+    "title": "Grande jogo de futebol ontem",
+    "summary": "Veja os detalhes do confronto entre os times principais.",
+    "imageUrl": "https://via.placeholder.com/300.png/ddf/000",
+    "date": "21/10/2025",
+    "category": "Esportes"
+  },
+  {
+  "id": 3,
+  "title": "Novo filme estreia nos cinemas",
+  "summary": "Resumo do filme e crítica.",
+  "imageUrl": "url-ou-caminho-da-imagem.jpg",
+  "date": "2025-10-22",
+  "category": "Entretenimento"
+   },
+  {
+  "id": 4,
+  "title": "Fim do Mundo?",
+  "summary": "Cientistas fazem descobertas surpreendentes.",
+  "imageUrl": "url-ou-caminho-da-imagem.jpg",
+  "date": "2025-10-22",
+  "category": "Cientifica"
+   },
+  {
+  "id": 5 ,
+  "title": "teste",
+  "summary": "teste",
+  "imageUrl": "url-ou-caminho-da-imagem.jpg",
+  "date": "2025-10-22",
+  "category": "teste"
+   }
+
+]
