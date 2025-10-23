@@ -38,6 +38,9 @@ const HomeScreen = () => {
         if (dateFilter === 'Últimos 30 dias') {
           return (now - itemDate) / (1000 * 60 * 60 * 24) <= 30;
         }
+        if (dateFilter === 'Últimos 90 dias') {
+          return (now - itemDate) / (1000 * 60 * 60 * 24) <= 90;
+        }
         return true;
       });
     }

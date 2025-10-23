@@ -11,9 +11,9 @@ export default function DateFilter({ date, onChangeDate }) {
         style={styles.picker}
       >
         <Picker.Item label="Todas" value="Todas" />
-        <Picker.Item label="Últimos 24 horas" value="Últimos 24 horas" />
         <Picker.Item label="Últimos 7 dias" value="Últimos 7 dias" />
         <Picker.Item label="Últimos 30 dias" value="Últimos 30 dias" />
+        <Picker.Item label="Últimos 90 dias" value="Últimos 90 dias" />
         </Picker>
     </View>
   );

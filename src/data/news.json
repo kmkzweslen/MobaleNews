@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Tecnologia avança em 2025",
     "summary": "Novas descobertas tecnológicas estão transformando o mundo.",
-    "imageUrl": "https://via.placeholder.com/300.png/ddf/000",
+    "imageUrl": "https://cdn.pixabay.com/photo/2020/06/01/13/26/technology-5246655_1280.jpg",
     "date": "01/10/2025",
     "category": "Tecnologia"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "title": "Grande jogo de futebol ontem",
     "summary": "Veja os detalhes do confronto entre os times principais.",
-    "imageUrl": "https://via.placeholder.com/300.png/ddf/000",
+    "imageUrl": "https://cdn.pixabay.com/photo/2017/04/09/15/20/ball-2215958_1280.jpg",
     "date": "21/10/2025",
     "category": "Esportes"
   },
@@ -19,7 +19,7 @@
   "id": 3,
   "title": "Novo filme estreia nos cinemas",
   "summary": "Resumo do filme e crítica.",
-  "imageUrl": "url-ou-caminho-da-imagem.jpg",
+  "imageUrl": "https://cdn.pixabay.com/photo/2019/04/24/21/55/cinema-4153289_640.jpg",
   "date": "2025-10-22",
   "category": "Entretenimento"
    },
@@ -27,17 +27,16 @@
   "id": 4,
   "title": "Fim do Mundo?",
   "summary": "Cientistas fazem descobertas surpreendentes.",
-  "imageUrl": "url-ou-caminho-da-imagem.jpg",
+  "imageUrl": "https://cdn.pixabay.com/photo/2021/02/08/23/06/land-5996852_640.jpg",
   "date": "2025-10-22",
   "category": "Cientifica"
    },
-  {
-  "id": 5 ,
-  "title": "teste",
-  "summary": "teste",
-  "imageUrl": "url-ou-caminho-da-imagem.jpg",
+    {
+  "id": 5,
+  "title": "Fim do teste?",
+  "summary": "Cientistas fazem descobertas surpreendentes.",
+  "imageUrl": "https://cdn.pixabay.com/photo/2021/02/08/23/06/land-5996852_640.jpg",
   "date": "2025-10-22",
   "category": "teste"
    }
-
 ]
