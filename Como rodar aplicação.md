@@ -8,12 +8,10 @@ Aplicativo de notícias desenvolvido com React Native e Expo, com filtros de cat
 
 Siga os passos abaixo para clonar o repositório, instalar as dependências e iniciar o app:
 
-'''
 git clone https://github.com/kmkzweslen/MobaleNews.git
 cd MobaleNews
 npm install
 npx expo start
-'''
 ---
 
 ## Funcionalidades principais
